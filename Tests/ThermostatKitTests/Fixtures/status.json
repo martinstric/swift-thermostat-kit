@@ -1,0 +1,395 @@
+{
+    "data": {
+        "temperature": 23,
+        "humidity": 48.9,
+        "versions_info": {
+            "thermostat_software": 13,
+            "thermostat_hardware": 20,
+            "main_board_software": 0,
+            "main_board_hardware": 0,
+            "main_board_hardware_type": "",
+            "wifi_board_software": 0,
+            "wifi_board_hardware": 0
+        },
+        "integration_status": 0,
+        "integration": 1,
+        "main_board_monitor": 1,
+        "air_filter_option": 0
+    },
+    "online_config": {
+        "mode": "heat",
+        "link": 0,
+        "status": 0,
+        "temp_mode": "hold",
+        "time_adjust": 0,
+        "direction": "2",
+        "fan": "auto",
+        "fan_status": "auto-low",
+        "hold_temp": {
+            "celsius": 23,
+            "fahrenheit": 71
+        },
+        "vacation_start": {
+            "year": 48,
+            "month": 10,
+            "day": 17,
+            "hour": "00:00",
+            "temp": ""
+        },
+        "vacation_end": {
+            "year": 48,
+            "month": 10,
+            "day": 17,
+            "hour": ""
+        },
+        "vacation_temp": {
+            "celsius": 23,
+            "fahrenheit": 68
+        },
+        "vacation_status": 0,
+        "vacation_mode": "heat",
+        "schedule": {
+            "celsius": {
+                "Sunday": {
+                    "program1": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 540
+                    },
+                    "program2": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 840
+                    },
+                    "program3": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 1080
+                    },
+                    "program4": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 1320
+                    }
+                },
+                "Monday": {
+                    "program1": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 1230
+                    }
+                },
+                "Tuesday": {
+                    "program1": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 1230
+                    }
+                },
+                "Wednesday": {
+                    "program1": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 1230
+                    }
+                },
+                "Thursday": {
+                    "program1": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 1230
+                    }
+                },
+                "Friday": {
+                    "program1": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 1230
+                    }
+                },
+                "Saturday": {
+                    "program1": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 540
+                    },
+                    "program2": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 840
+                    },
+                    "program3": {
+                        "heat": 21,
+                        "cool": 23,
+                        "time24": 1080
+                    },
+                    "program4": {
+                        "heat": 18,
+                        "cool": 20,
+                        "time24": 1320
+                    }
+                }
+            },
+            "fahrenheit": {
+                "Sunday": {
+                    "program1": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 540
+                    },
+                    "program2": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 840
+                    },
+                    "program3": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 1080
+                    },
+                    "program4": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 1320
+                    }
+                },
+                "Monday": {
+                    "program1": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 1230
+                    }
+                },
+                "Tuesday": {
+                    "program1": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 1230
+                    }
+                },
+                "Wednesday": {
+                    "program1": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 1230
+                    }
+                },
+                "Thursday": {
+                    "program1": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 1230
+                    }
+                },
+                "Friday": {
+                    "program1": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 510
+                    },
+                    "program2": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 870
+                    },
+                    "program3": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 1110
+                    },
+                    "program4": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 1230
+                    }
+                },
+                "Saturday": {
+                    "program1": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 540
+                    },
+                    "program2": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 840
+                    },
+                    "program3": {
+                        "heat": 69,
+                        "cool": 73,
+                        "time24": 1080
+                    },
+                    "program4": {
+                        "heat": 64,
+                        "cool": 68,
+                        "time24": 1320
+                    }
+                }
+            }
+        },
+        "alert": 0,
+        "vacation_heat": {
+            "celsius": "23",
+            "fahrenheit": "68"
+        },
+        "vacation_cool": {
+            "celsius": "23",
+            "fahrenheit": "68"
+        },
+        "fan_status_binary": "0011"
+    },
+    "online_settings": {
+        "units": 0,
+        "country": "CA",
+        "time-format": "24",
+        "timezone": "-240",
+        "zip": "Mississauga",
+        "min_temp": {
+            "celsius": 10,
+            "fahrenheit": 40
+        },
+        "max_temp": {
+            "celsius": 40,
+            "fahrenheit": 100
+        },
+        "replace_air_filter": "2027-04-18"
+    },
+    "datetime": "2026-10-19 18:43:59",
+    "last_seen": 4,
+    "time": "14:44:03"
+}
